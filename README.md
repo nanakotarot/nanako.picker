@@ -35,5 +35,15 @@
 - **強調色 (Accent)**：霓虹粉 (#f72585)
 - **文字**：純白發光樣式，確保在深色背景下的極致可讀性。
 
+## 📝 工作日誌 (Changelog)
+
+### [2025-12-27]
+- **介面升級**：全面更新為 Cyberpunk Neon Glassmorphism 風格。
+- **功能優化**：改進幸運抽籤與分組邏輯，修復 RWD 跑版問題。
+
+### [2025-12-26]
+- **專案初始化**：建立 RWD 名單抽籤與分組工具 (List Picker & Group App)。
+- **特效新增**：實作全螢幕紙花 (Confetti) 慶祝特效。
+
 ---
 *Created with nanako tarot.*
