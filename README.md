@@ -85,4 +85,3 @@ The visual theme is currently set as: / 本專案目前的視覺主題設定為�
 
 ---
 *Created with nanako tarot.*
-*新帳號測試.*
